@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Site BuildName="Win32-ninja"
+	BuildStamp="20230922-0618-Experimental"
+	Name="LAPTOP-TBVBSVOS"
+	Generator="ctest-3.26.1"
+	CompilerName="C:/msys64/mingw64/bin/g++.exe"
+	CompilerVersion="12.2.0"
+	OSName="Windows"
+	Hostname="LAPTOP-TBVBSVOS"
+	OSRelease=" Personal"
+	OSVersion=" (Build 19045)"
+	OSPlatform="AMD64"
+	Is64Bits="1"
+	VendorString=""
+	VendorID="Unknown Manufacturer"
+	FamilyID="0"
+	ModelID="0"
+	ProcessorCacheSize="0"
+	NumberOfLogicalCPU="8"
+	NumberOfPhysicalCPU="4"
+	TotalVirtualMemory="17585"
+	TotalPhysicalMemory="7857"
+	LogicalProcessorsPerPhysical="2"
+	ProcessorClockFrequency="1190"
+	>
+	<Testing>
+		<StartDateTime>Sep 22 08:39 Rom, sommertid</StartDateTime>
+		<StartTestTime>1695364788</StartTestTime>
+		<TestList/>
+		<EndDateTime>Sep 22 08:39 Rom, sommertid</EndDateTime>
+		<EndTestTime>1695364788</EndTestTime>
+		<ElapsedMinutes>0</ElapsedMinutes>
+	</Testing>
+</Site>

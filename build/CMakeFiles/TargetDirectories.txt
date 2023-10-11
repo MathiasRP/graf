@@ -1,0 +1,5 @@
+C:/VSC/graf/build/CMakeFiles/graflib.dir
+C:/VSC/graf/build/CMakeFiles/package.dir
+C:/VSC/graf/build/CMakeFiles/package_source.dir
+C:/VSC/graf/build/CMakeFiles/edit_cache.dir
+C:/VSC/graf/build/CMakeFiles/rebuild_cache.dir

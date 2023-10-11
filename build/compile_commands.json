@@ -1,0 +1,32 @@
+[
+{
+  "directory": "C:/VSC/graf/build",
+  "command": "C:\\msys64\\mingw64\\bin\\g++.exe -IC:/VSC/graf/SFML/include -g -o CMakeFiles\\graflib.dir\\main.cpp.obj -c C:\\VSC\\graf\\main.cpp",
+  "file": "C:\\VSC\\graf\\main.cpp",
+  "output": "CMakeFiles\\graflib.dir\\main.cpp.obj"
+},
+{
+  "directory": "C:/VSC/graf/build",
+  "command": "C:\\msys64\\mingw64\\bin\\g++.exe -IC:/VSC/graf/SFML/include -g -o CMakeFiles\\graflib.dir\\Game.cpp.obj -c C:\\VSC\\graf\\Game.cpp",
+  "file": "C:\\VSC\\graf\\Game.cpp",
+  "output": "CMakeFiles\\graflib.dir\\Game.cpp.obj"
+},
+{
+  "directory": "C:/VSC/graf/build",
+  "command": "C:\\msys64\\mingw64\\bin\\g++.exe -IC:/VSC/graf/SFML/include -g -o CMakeFiles\\graflib.dir\\grafLib\\CordinatSystem.cpp.obj -c C:\\VSC\\graf\\grafLib\\CordinatSystem.cpp",
+  "file": "C:\\VSC\\graf\\grafLib\\CordinatSystem.cpp",
+  "output": "CMakeFiles\\graflib.dir\\grafLib\\CordinatSystem.cpp.obj"
+},
+{
+  "directory": "C:/VSC/graf/build",
+  "command": "C:\\msys64\\mingw64\\bin\\g++.exe -IC:/VSC/graf/SFML/include -g -o CMakeFiles\\graflib.dir\\grafLib\\ExponentFunction.cpp.obj -c C:\\VSC\\graf\\grafLib\\ExponentFunction.cpp",
+  "file": "C:\\VSC\\graf\\grafLib\\ExponentFunction.cpp",
+  "output": "CMakeFiles\\graflib.dir\\grafLib\\ExponentFunction.cpp.obj"
+},
+{
+  "directory": "C:/VSC/graf/build",
+  "command": "C:\\msys64\\mingw64\\bin\\g++.exe -IC:/VSC/graf/SFML/include -g -o CMakeFiles\\graflib.dir\\grafLib\\LinesFunction.cpp.obj -c C:\\VSC\\graf\\grafLib\\LinesFunction.cpp",
+  "file": "C:\\VSC\\graf\\grafLib\\LinesFunction.cpp",
+  "output": "CMakeFiles\\graflib.dir\\grafLib\\LinesFunction.cpp.obj"
+}
+]
